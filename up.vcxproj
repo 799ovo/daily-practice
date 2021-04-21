@@ -140,8 +140,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="28. 实现 strStr().cpp" />
+    <ClCompile Include="91. 解码方法.cpp" />
+    <ClCompile Include="剑指 Offer 16. 数值的整数次方.cpp" />
+    <ClCompile Include="剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.cpp" />
     <ClCompile Include="剑指 Offer 22. 链表中倒数第k个节点.cpp" />
+    <ClCompile Include="剑指 Offer 29. 顺时针打印矩阵.cpp" />
+    <ClCompile Include="剑指 Offer 32 - I. 从上到下打印二叉树.cpp" />
+    <ClCompile Include="剑指 Offer 32 - III. 从上到下打印二叉树 III.cpp" />
+    <ClCompile Include="剑指 Offer 33. 二叉搜索树的后序遍历序列.cpp" />
     <ClCompile Include="剑指 Offer 39. 数组中出现次数超过一半的数字.cpp" />
+    <ClCompile Include="剑指 Offer 50. 第一个只出现一次的字符.cpp" />
+    <ClCompile Include="剑指 Offer 55 - I. 二叉树的深度.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
