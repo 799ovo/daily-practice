@@ -51,5 +51,11 @@
     <ClCompile Include="剑指 Offer 33. 二叉搜索树的后序遍历序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指 Offer 57 - II. 和为s的连续正数序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="368. 最大整除子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

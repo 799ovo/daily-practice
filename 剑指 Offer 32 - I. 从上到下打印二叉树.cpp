@@ -15,7 +15,7 @@ vector<int> levelOrder(TreeNode* root)
     queue<TreeNode*> q;
     vector<int> res;
     if (root == nullptr)
-        return 0;
+        return res;
     q.push(root);
     while (!q.empty())
     {

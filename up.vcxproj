@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="28. 实现 strStr().cpp" />
+    <ClCompile Include="368. 最大整除子集.cpp" />
     <ClCompile Include="91. 解码方法.cpp" />
     <ClCompile Include="剑指 Offer 16. 数值的整数次方.cpp" />
     <ClCompile Include="剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="剑指 Offer 39. 数组中出现次数超过一半的数字.cpp" />
     <ClCompile Include="剑指 Offer 50. 第一个只出现一次的字符.cpp" />
     <ClCompile Include="剑指 Offer 55 - I. 二叉树的深度.cpp" />
+    <ClCompile Include="剑指 Offer 57 - II. 和为s的连续正数序列.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
