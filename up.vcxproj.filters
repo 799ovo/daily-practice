@@ -60,5 +60,8 @@
     <ClCompile Include="377. 组合总和 Ⅳ.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="897. 递增顺序搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
