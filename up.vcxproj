@@ -144,6 +144,7 @@
     <ClCompile Include="368. 最大整除子集.cpp" />
     <ClCompile Include="377. 组合总和 Ⅳ.cpp" />
     <ClCompile Include="424. 替换后的最长重复字符.cpp" />
+    <ClCompile Include="554. 砖墙.cpp" />
     <ClCompile Include="633. 平方数之和.cpp" />
     <ClCompile Include="897. 递增顺序搜索树.cpp" />
     <ClCompile Include="91. 解码方法.cpp" />
@@ -157,6 +158,7 @@
     <ClCompile Include="剑指 Offer 39. 数组中出现次数超过一半的数字.cpp" />
     <ClCompile Include="剑指 Offer 50. 第一个只出现一次的字符.cpp" />
     <ClCompile Include="剑指 Offer 55 - I. 二叉树的深度.cpp" />
+    <ClCompile Include="剑指 Offer 55 - II. 平衡二叉树.cpp" />
     <ClCompile Include="剑指 Offer 57 - II. 和为s的连续正数序列.cpp" />
     <ClCompile Include="剑指 Offer 57. 和为s的两个数字.cpp" />
     <ClCompile Include="剑指 Offer 58 - I. 翻转单词顺序.cpp" />
