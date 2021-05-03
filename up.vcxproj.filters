@@ -90,5 +90,14 @@
     <ClCompile Include="554. 砖墙.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7. 整数反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 53 - I. 在排序数组中查找数字 I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 62. 圆圈中最后剩下的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
