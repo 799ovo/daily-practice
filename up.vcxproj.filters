@@ -105,5 +105,8 @@
     <ClCompile Include="剑指 Offer 30. 包含min函数的栈.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="740. 删除并获得点数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
