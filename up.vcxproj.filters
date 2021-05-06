@@ -108,5 +108,20 @@
     <ClCompile Include="740. 删除并获得点数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1720. 解码异或后的数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 56 - I. 数组中数字出现的次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 56 - II. 数组中数字出现的次数 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 64. 求1+2+…+n.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 49. 丑数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
