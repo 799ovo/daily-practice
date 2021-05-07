@@ -123,5 +123,20 @@
     <ClCompile Include="剑指 Offer 49. 丑数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1486. 数组异或操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 60. n个骰子的点数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 52. 两个链表的第一个公共节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 67. 把字符串转换成整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 46. 把数字翻译成字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
