@@ -138,5 +138,11 @@
     <ClCompile Include="剑指 Offer 46. 把数字翻译成字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指 Offer 45. 把数组排成最小的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 38. 字符串的排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
