@@ -150,6 +150,7 @@
     <ClCompile Include="633. 平方数之和.cpp" />
     <ClCompile Include="7. 整数反转.cpp" />
     <ClCompile Include="740. 删除并获得点数.cpp" />
+    <ClCompile Include="872. 叶子相似的树.cpp" />
     <ClCompile Include="897. 递增顺序搜索树.cpp" />
     <ClCompile Include="91. 解码方法.cpp" />
     <ClCompile Include="剑指 Offer 16. 数值的整数次方.cpp" />

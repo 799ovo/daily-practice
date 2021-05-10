@@ -147,5 +147,8 @@
     <ClCompile Include="剑指 Offer 47. 礼物的最大价值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="872. 叶子相似的树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
