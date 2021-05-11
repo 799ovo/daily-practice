@@ -150,5 +150,14 @@
     <ClCompile Include="872. 叶子相似的树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1734. 解码异或后的排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 68 - II. 二叉树的最近公共祖先.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
