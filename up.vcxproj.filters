@@ -159,5 +159,11 @@
     <ClCompile Include="剑指 Offer 68 - II. 二叉树的最近公共祖先.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1310. 子数组异或查询.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 36. 二叉搜索树与双向链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

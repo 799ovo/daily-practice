@@ -18,7 +18,7 @@ TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q)
     if (left != nullptr && right != nullptr)
         return root;
     if (left != nullptr)
-        return left;
+        return left; 
     if (right != nullptr)
         return right;
     else
