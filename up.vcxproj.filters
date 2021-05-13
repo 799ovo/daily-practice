@@ -165,5 +165,11 @@
     <ClCompile Include="剑指 Offer 36. 二叉搜索树与双向链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8. 字符串转换整数 (atoi).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3. 无重复字符的最长子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

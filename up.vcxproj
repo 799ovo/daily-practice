@@ -145,6 +145,7 @@
     <ClCompile Include="1720. 解码异或后的数组.cpp" />
     <ClCompile Include="1734. 解码异或后的排列.cpp" />
     <ClCompile Include="28. 实现 strStr().cpp" />
+    <ClCompile Include="3. 无重复字符的最长子串.cpp" />
     <ClCompile Include="368. 最大整除子集.cpp" />
     <ClCompile Include="377. 组合总和 Ⅳ.cpp" />
     <ClCompile Include="424. 替换后的最长重复字符.cpp" />
@@ -152,6 +153,7 @@
     <ClCompile Include="633. 平方数之和.cpp" />
     <ClCompile Include="7. 整数反转.cpp" />
     <ClCompile Include="740. 删除并获得点数.cpp" />
+    <ClCompile Include="8. 字符串转换整数 (atoi).cpp" />
     <ClCompile Include="872. 叶子相似的树.cpp" />
     <ClCompile Include="897. 递增顺序搜索树.cpp" />
     <ClCompile Include="91. 解码方法.cpp" />
