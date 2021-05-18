@@ -186,5 +186,8 @@
     <ClCompile Include="993. 二叉树的堂兄弟节点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指 Offer 44. 数字序列中某一位的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
