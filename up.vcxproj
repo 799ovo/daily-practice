@@ -192,6 +192,7 @@
     <ClCompile Include="剑指 Offer 60. n个骰子的点数.cpp" />
     <ClCompile Include="剑指 Offer 61. 扑克牌中的顺子.cpp" />
     <ClCompile Include="剑指 Offer 62. 圆圈中最后剩下的数字.cpp" />
+    <ClCompile Include="剑指 Offer 63. 股票的最大利润.cpp" />
     <ClCompile Include="剑指 Offer 64. 求1+2+…+n.cpp" />
     <ClCompile Include="剑指 Offer 65. 不用加减乘除做加法.cpp" />
     <ClCompile Include="剑指 Offer 67. 把字符串转换成整数.cpp" />

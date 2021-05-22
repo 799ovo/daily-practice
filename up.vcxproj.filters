@@ -189,5 +189,8 @@
     <ClCompile Include="剑指 Offer 44. 数字序列中某一位的数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指 Offer 63. 股票的最大利润.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
