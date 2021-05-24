@@ -195,6 +195,7 @@
     <ClCompile Include="剑指 Offer 63. 股票的最大利润.cpp" />
     <ClCompile Include="剑指 Offer 64. 求1+2+…+n.cpp" />
     <ClCompile Include="剑指 Offer 65. 不用加减乘除做加法.cpp" />
+    <ClCompile Include="剑指 Offer 66. 构建乘积数组.cpp" />
     <ClCompile Include="剑指 Offer 67. 把字符串转换成整数.cpp" />
     <ClCompile Include="剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.cpp" />
     <ClCompile Include="剑指 Offer 68 - II. 二叉树的最近公共祖先.cpp" />
