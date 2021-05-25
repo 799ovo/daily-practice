@@ -195,5 +195,8 @@
     <ClCompile Include="剑指 Offer 66. 构建乘积数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="69. x 的平方根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
