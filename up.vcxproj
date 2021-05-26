@@ -162,6 +162,7 @@
     <ClCompile Include="897. 递增顺序搜索树.cpp" />
     <ClCompile Include="91. 解码方法.cpp" />
     <ClCompile Include="993. 二叉树的堂兄弟节点.cpp" />
+    <ClCompile Include="两数之和.cpp" />
     <ClCompile Include="剑指 Offer 16. 数值的整数次方.cpp" />
     <ClCompile Include="剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.cpp" />
     <ClCompile Include="剑指 Offer 22. 链表中倒数第k个节点.cpp" />
