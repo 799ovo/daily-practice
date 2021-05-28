@@ -204,5 +204,8 @@
     <ClCompile Include="2. 两数相加.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6. Z 字形变换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

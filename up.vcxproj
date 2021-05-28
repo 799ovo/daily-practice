@@ -154,6 +154,7 @@
     <ClCompile Include="421. 数组中两个数的最大异或值.cpp" />
     <ClCompile Include="424. 替换后的最长重复字符.cpp" />
     <ClCompile Include="554. 砖墙.cpp" />
+    <ClCompile Include="6. Z 字形变换.cpp" />
     <ClCompile Include="633. 平方数之和.cpp" />
     <ClCompile Include="69. x 的平方根.cpp" />
     <ClCompile Include="7. 整数反转.cpp" />
