@@ -162,6 +162,7 @@
     <ClCompile Include="8. 字符串转换整数 (atoi).cpp" />
     <ClCompile Include="872. 叶子相似的树.cpp" />
     <ClCompile Include="897. 递增顺序搜索树.cpp" />
+    <ClCompile Include="9. 回文数.cpp" />
     <ClCompile Include="91. 解码方法.cpp" />
     <ClCompile Include="993. 二叉树的堂兄弟节点.cpp" />
     <ClCompile Include="两数之和.cpp" />
