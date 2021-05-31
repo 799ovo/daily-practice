@@ -210,5 +210,8 @@
     <ClCompile Include="9. 回文数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11. 盛最多水的容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
